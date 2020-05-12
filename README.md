@@ -1,5 +1,5 @@
 # DINO-Automate
-Here's the automation of Dino game in both light and dark theme>
+Here's the automation of Dino game in both light and dark theme.
 
 First install module 
 1.pip install pyautogui
