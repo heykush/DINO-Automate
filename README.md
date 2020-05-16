@@ -1,8 +1,8 @@
 # DINO-Automate
 Here's the Automation of Dino game in both light and dark theme.
 
-## Start Dino Game 
-  If you are unable to get the No Internet page, open a new tab and type `chrome://dino` and `press enter`.
+# Start Dino Game 
+  If you are unable to get the No Internet page, open a new tab in Chrome and type `chrome://dino` and `press enter`.
   
 # Install module 
 
