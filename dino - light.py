@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pyautogui
 from PIL import Image, ImageGrab
 from numpy import asarray 
