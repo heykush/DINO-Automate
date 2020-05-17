@@ -30,7 +30,7 @@ if __name__ == "__main__":
         image = ImageGrab.grab().convert('L')
         # inverted_image = PIL.ImageOps.invert(image)
         data =image.load()
-        isCollide(data)       
+        isCollide(data)
         
         # # #Draw the rectangle for birds
         # for i in range(170, 210):
