@@ -3,6 +3,12 @@ Here's the Automation of Dino game in both light and dark theme.
 
 # Start Dino Game 
   If you are unable to get the No Internet page, open a new tab in Chrome and type `chrome://dino` and `press enter`.
+ 
+ # DEMO
+ ![demo](https://github.com/heykush/DINO-Automate/blob/master/ezgif.com-video-to-gif%20(1).gif?raw=true)
+ 
+ ![demo](https://github.com/heykush/DINO-Automate/blob/master/ezgif.com-video-to-gif%20(2).gif?raw=true)
+ 
   
 # Install module 
 
