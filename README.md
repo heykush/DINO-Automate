@@ -24,7 +24,7 @@ Here's the Automation of Dino game in both light and dark theme.  [![Maintenance
 
 
 Contributing
-==========
+============
 Any kind of contributions are welcome.
 1. **Fork** the repo on GitHub.
 2. **Clone** the project to your own machine.
